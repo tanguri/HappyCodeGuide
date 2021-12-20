@@ -28,35 +28,35 @@
 
   - Maven: Create Maven Project 실행
 
-  ![](./images/legacy/11.png)
+  ![](./images/Legacy/11.png)
 
   - maven-archetype-webapp 실행
 
-  ![](./images/legacy/12.png)
+  ![](./images/Legacy/12.png)
 
   - archetypeVersion 설정
 
-  ![](./images/legacy/13.png)
+  ![](./images/Legacy/13.png)
 
   - groupId 설정
 
-  ![](./images/legacy/14.png)
+  ![](./images/Legacy/14.png)
 
   - artifactId 설정
 
-  ![](./images/legacy/15.png)
+  ![](./images/Legacy/15.png)
 
   - 프로젝트를 생성할 폴더를 설정
 
-  ![](./images/legacy/16.png)
+  ![](./images/Legacy/16.png)
 
   - Open 클릭
 
-  ![](./images/legacy/17.png)
+  ![](./images/Legacy/17.png)
 
   - 생성된 프로젝트 구조
 
-  ![](./images/legacy/18.png)
+  ![](./images/Legacy/18.png)
 
 </details>
 
@@ -72,7 +72,7 @@
 - 이 문서는 기존 템플레이트를 재사용하여 프로젝트를 실행합니다.
 - 파일 > 폴더 열기 [Ctrl + K, O] > Ctrl을 누른 상태에서 순서대로 K, O를 입력합니다.
 
-  ![](./images/legacy/1.png)
+  ![](./images/Legacy/1.png)
 
 - mvnDebug, Tomcat for Java 확장팩을 사용한 실행방법이 있습니다.
 
@@ -161,13 +161,13 @@
 
 - 상단의 디버깅 시작 클릭합니다 [F5]
 
-  ![](./images/legacy/9.png)
+  ![](./images/Legacy/9.png)
 
 #### 2.1.2 클래스 및 JSP 수정 적용 및 디버깅 종료방법
 
 - 클래스를 수정하고 Hot Code Replace를 클릭합니다. (빨간색)
 
-  ![](./images/legacy/10.png)
+  ![](./images/Legacy/10.png)
 
 - JSP는 수정 후 바로 적용이 됩니다.
 
@@ -179,7 +179,7 @@
 
 - MAVEN 탭에서 clean > package 순으로 클릭합니다.
 
-  ![](./images/legacy/2.png)
+  ![](./images/Legacy/2.png)
 
 - 터미널에서 실행 시.
 
@@ -191,19 +191,19 @@
 
 - TOMCAT SERVERS 탭에서 "+" 버튼을 클릭 후 Tomcat이 설치된 위치를 지정합니다.
 
-  ![](./images/legacy/4.png)
+  ![](./images/Legacy/4.png)
 
 - target 폴더 아래에 생긴 war파일을 우클릭하여 Run on Tomcat Server 합니다.
 
   - Tomcat 구동시 Root Path로 구동하기 위해 pom.xml의 build 항목에서 finalName을 ROOT로 설정하여 ROOT.war로 파일 생성되게 하였습니다.
 
-  ![](./images/legacy/3.png)
+  ![](./images/Legacy/3.png)
 
 #### 2.2.3 war 재배포 방법
 
 - 먼저 TOMCAT SERVERS 탭에서 Stop을 클릭하여 Tomcat을 종료 시킨 후 다시 Maven 에서 생성된 ROOT.war 파일을 우클릭하여 Run on Tomcat Server 합니다.
 
-  ![](./images/legacy/8.png)
+  ![](./images/Legacy/8.png)
 
 ---
 
@@ -211,8 +211,8 @@
 
 - TOMCAT SERVERS 탭에서 Open in Browser 항목 클릭 혹은 직접 브라우저로 통해서 확인합니다.
 
-  ![](./images/legacy/5.png)
+  ![](./images/Legacy/5.png)
 
-  ![](./images/legacy/6.jpeg)
+  ![](./images/Legacy/6.jpeg)
 
-  ![](./images/legacy/7.png)
+  ![](./images/Legacy/7.png)

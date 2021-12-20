@@ -33,35 +33,35 @@
 
   - Spring initrializr: create a Maven Project 실행
 
-  ![](./images/boot/9.png)
+  ![](./images/Boot/9.png)
 
   - Spring boot version 설정
 
-  ![](./images/boot/10.png)
+  ![](./images/Boot/10.png)
 
   - 언어 설정
 
-  ![](./images/boot/11.png)
+  ![](./images/Boot/11.png)
 
   - groupId 설정
 
-  ![](./images/boot/12.png)
+  ![](./images/Boot/12.png)
 
   - artifactId 설정
 
-  ![](./images/boot/13.png)
+  ![](./images/Boot/13.png)
 
   - packaging type 설정
 
-  ![](./images/boot/14.png)
+  ![](./images/Boot/14.png)
 
   - Java version 설정
 
-  ![](./images/boot/15.png)
+  ![](./images/Boot/15.png)
 
   - 의존성 설정.
 
-  ![](./images/boot/16.png)
+  ![](./images/Boot/16.png)
 
   - 프로젝트를 생성할 폴더를 설정
 
@@ -69,11 +69,11 @@
 
   - Open
 
-  ![](./images/boot/17.png)
+  ![](./images/Boot/17.png)
 
   - 생성된 프로젝트 구조
 
-  ![](./images/boot/18.png)
+  ![](./images/Boot/18.png)
 
   </details>
 
@@ -85,9 +85,9 @@
 
   - 이 문서는 JSP를 사용하기 때문에 [Project Metadata > Packaging]에서 Jar 선택 시 배포에 문제가 발생 할 수 있습니다.
 
-  ![](./images/boot/1.jpeg)
+  ![](./images/Boot/1.jpeg)
 
-  ![](./images/boot/2.png)
+  ![](./images/Boot/2.png)
 
 ### 1.3 기존 템플레이트 재사용
 
@@ -283,7 +283,7 @@
 
 - MAVEN 탭에서 clean 후 install 합니다.
 
-  ![](./images/boot/6.png)
+  ![](./images/Boot/6.png)
 
   - 터미널 실행 시
 
@@ -293,9 +293,9 @@
 
 - SPRING BOOT DASHBOARD에서 실행 버튼 클릭합니다.
 
-  ![](./images/boot/3.png)
+  ![](./images/Boot/3.png)
 
-  ![](./images/boot/4.png)
+  ![](./images/Boot/4.png)
 
 - banner.txt 을 통해 banner의 텍스트를 바꿀 수 있습니다.
 
@@ -323,7 +323,7 @@
 
 - 상단의 DASHBOARD로 조작이 가능합니다.
 
-  ![](./images/boot/5.png)
+  ![](./images/Boot/5.png)
 
 ---
 
@@ -331,8 +331,8 @@
 
 - 지구모양 아이콘 클릭 혹은 직접 브라우저에서 확인합니다.
 
-  ![](./images/boot/7.png)
+  ![](./images/Boot/7.png)
 
-  ![](./images/boot/8.jpeg)
+  ![](./images/Boot/8.jpeg)
 
-  ![](./images/boot/8.png)
+  ![](./images/Boot/8.png)
